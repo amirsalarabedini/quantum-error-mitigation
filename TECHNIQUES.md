@@ -4,6 +4,7 @@ This document provides a detailed explanation of the error mitigation techniques
 
 ## Introduction to Quantum Errors
 
+
 Quantum computers are highly sensitive to noise and environmental disturbances. These errors can be categorized into:
 
 1. **Gate errors**: Imperfections in quantum operations
